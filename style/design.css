@@ -6,16 +6,12 @@
 } 
 
 .logo{
-  background-color: #c3b0dc;
-  /* display: flex; */
-  /* justify-content: center; */
+  background-color: #1A0B2E;
   padding-top: 24px;
-
 }
 nav{
   width: 75%;
   max-width: 1200px;
-  /* border: 2px solid red; */
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -23,13 +19,9 @@ nav{
 }
 .h{
   color: white;
-  /* gap:  10px 1181px 30px 200px; */
-  /* border: 1px solid red; */
 }
 .color{
-  color: rgb(197, 16, 218);
-  /* gap: 30px 1181px 30px 200px; */
-  /* border: 1px solid red; */
+  color: #bb0b9b
 }
 .menu{
   display: flex;
@@ -46,6 +38,5 @@ nav{
   outline: none;
   color: white;
   font-size: 19px;
-  /* padding-left: 200px; */
 }
 
